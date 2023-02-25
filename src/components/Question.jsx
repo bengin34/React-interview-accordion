@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Question = () => {
+const Question = (item) => {
+    console.log(item)
   return (
     <div>
-      
+      sdfsdf
     </div>
   )
 }
